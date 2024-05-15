@@ -1,0 +1,26 @@
+int :  negatif
+uint : positif
+float : desimal
+
+
+alias // 
+byte : uint8
+rune : int32
+int : minimal int32
+uint : minimal uint32
+
+const tiak apat diubah
+
+func juga merupakan tipe data, dan bisa disimpan didalam variable
+
+// func as param
+=>  func tidak hanya bisa kita simpan didalam variable sebagai value
+=> namun bisa digunakan sebagai param untuk func lain
+ 
+
+ // anonymous func
+ => (string) bool -> bool itu sebagai return
+
+
+ //closure
+ =>
